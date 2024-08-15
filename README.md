@@ -7,7 +7,7 @@
 This section involves the application of various types of noise to images, including Uniform, Gaussian, and Salt & Pepper noise. Each type of noise introduces different artifacts, simulating real-world image degradation.
 
 
-## Low Pass Filters
+## Filters
 
 Low pass filters are used to reduce noise and smooth images. The filters applied include the Average filter, Gaussian filter, and Median filter. These techniques are essential for preparing images for further analysis by reducing high-frequency noise.
 
@@ -48,6 +48,12 @@ Hybrid images are created by combining low and high-frequency components from di
 
 # Edge and Boundary Detection Techniques
 
+
+
+## canny Detection
+
+
+![image](readme/Screenshot%20(2086).png)
 
 
 ## Line Detection
